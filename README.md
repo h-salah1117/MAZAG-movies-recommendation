@@ -19,24 +19,29 @@ A modern, full-stack movie recommendation system that combines **Rule-Based Filt
 1. **Clone the repository:**
    ```bash
    git clone (https://github.com/h-salah1117/MAZAG-movies-recommendation.git)
-Setup Backend (Node.js):
+2. **Setup Backend (Node.js):**
 
 Bash
 cd backend
 npm install
-Setup AI Engine (Python): Install required libraries:
+
+
+3. **Setup AI Engine (Python): Install required libraries:**
 
 Bash
 pip install pandas scikit-learn numpy
-▶️ Usage
+
+
+4. **▶️ Usage**
 Start the Server:
 
 Bash
 cd backend
 node server.js
+
 Open Browser: Go to http://localhost:3000
 
-📂 Project Structure
+**📂 Project Structure**
 ├── backend/         # Express Server & API
 ├── frontend/        # UI & Client Logic
 ├── inference/       # Python Scripts for ML
