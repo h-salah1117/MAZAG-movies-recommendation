@@ -18,8 +18,7 @@ A modern, full-stack movie recommendation system that combines **Rule-Based Filt
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/mazag-movies.git](https://github.com/YOUR_USERNAME/mazag-movies.git)
-   cd mazag-movies
+   git clone (https://github.com/h-salah1117/MAZAG-movies-recommendation.git)
 Setup Backend (Node.js):
 
 Bash
